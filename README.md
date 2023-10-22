@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Sheikh-AlArd
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning websits Back-end dev with Node.js frame work and javascript using mongoDB as Database.
+- 🌱 I’m currently learning websits Front-end Development with React.js
 
 
 <!---
